@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 560">
+ <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f7faff"/><stop offset="1" stop-color="#eaf1f8"/></linearGradient></defs>
+ <rect width="920" height="560" rx="14" fill="url(#bg)"/>
+ <rect width="150" height="560" rx="14" fill="#102b4a"/>
+ <rect x="18" y="24" width="100" height="12" rx="6" fill="#d8e6f3" opacity=".9"/>
+ <rect x="18" y="78" width="105" height="30" rx="6" fill="#315a82"/>
+ <g fill="#9fb7ce" font-family="Arial,sans-serif" font-size="13"><text x="32" y="98">Overview</text><text x="32" y="148">Dashboard</text><text x="32" y="196">Filings</text><text x="32" y="244">Financials</text><text x="32" y="292">Analysis</text></g>
+ <g fill="#fff" font-family="Arial,sans-serif"><text x="187" y="52" font-size="12" fill="#6d8197">FINANCIAL INTELLIGENCE / DART</text><text x="187" y="92" font-size="28" font-weight="700" fill="#183653">Samsung Electronics</text></g>
+ <g>
+  <rect x="187" y="120" width="208" height="82" rx="8" fill="#fff" stroke="#dce5ee"/><rect x="410" y="120" width="208" height="82" rx="8" fill="#fff" stroke="#dce5ee"/><rect x="633" y="120" width="257" height="82" rx="8" fill="#fff" stroke="#dce5ee"/>
+  <g font-family="Arial,sans-serif"><g fill="#8395a8" font-size="11"><text x="207" y="146">REVENUE</text><text x="430" y="146">OPERATING PROFIT</text><text x="653" y="146">NET INCOME</text></g><g fill="#183653" font-size="23" font-weight="700"><text x="207" y="180">302.2T</text><text x="430" y="180">32.7T</text><text x="653" y="180">34.5T</text></g></g>
+ </g>
+ <g>
+  <rect x="187" y="222" width="337" height="145" rx="8" fill="#fff" stroke="#dce5ee"/><rect x="539" y="222" width="351" height="145" rx="8" fill="#fff" stroke="#dce5ee"/>
+  <g font-family="Arial,sans-serif" fill="#526a84" font-size="12"><text x="207" y="246">Revenue trend</text><text x="559" y="246">Profitability</text></g>
+  <path d="M208 333 L254 317 L300 324 L346 294 L392 303 L438 270 L490 280" fill="none" stroke="#6c95bd" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M560 334 L610 316 L660 326 L710 289 L760 302 L810 270 L860 283" fill="none" stroke="#1c496f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#e8eef4" stroke-width="1"><path d="M207 276H500 M207 304H500 M559 276H870 M559 304H870"/></g>
+ </g>
+ <g><rect x="187" y="388" width="703" height="145" rx="8" fill="#fff" stroke="#dce5ee"/><text x="207" y="414" font-family="Arial,sans-serif" font-size="12" fill="#526a84">Key financial indicators</text>
+  <g fill="#a4c0dc"><rect x="222" y="466" width="35" height="44" rx="3"/><rect x="275" y="449" width="35" height="61" rx="3"/><rect x="328" y="438" width="35" height="72" rx="3"/><rect x="381" y="430" width="35" height="80" rx="3"/><rect x="434" y="412" width="35" height="98" rx="3"/><rect x="487" y="422" width="35" height="88" rx="3"/><rect x="540" y="404" width="35" height="106" rx="3"/><rect x="593" y="391" width="35" height="119" rx="3"/><rect x="646" y="406" width="35" height="104" rx="3"/><rect x="699" y="384" width="35" height="126" rx="3"/><rect x="752" y="398" width="35" height="112" rx="3"/><rect x="805" y="374" width="35" height="136" rx="3"/></g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-label="Blue architectural building under a clear sky">
+ <defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#89b0d2"/><stop offset=".56" stop-color="#d9e6f0"/><stop offset="1" stop-color="#6d96ba"/></linearGradient>
+  <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#1a4168"/><stop offset=".55" stop-color="#577fa2"/><stop offset="1" stop-color="#102b49"/></linearGradient>
+  <linearGradient id="shade" x2="1"><stop stop-color="#102b49" stop-opacity=".04"/><stop offset="1" stop-color="#071d34" stop-opacity=".58"/></linearGradient>
+ </defs>
+ <rect width="640" height="900" fill="url(#sky)"/>
+ <path d="M0 200 Q110 157 225 207 T470 178 T640 205 V0 H0Z" fill="#fff" opacity=".12"/>
+ <path d="M-40 900 L90 440 L320 300 L710 900Z" fill="url(#glass)"/>
+ <path d="M90 440 L320 300 L320 900 L-40 900Z" fill="#2b557a" opacity=".9"/>
+ <path d="M320 300 L710 900 L320 900Z" fill="#0f2d4c" opacity=".85"/>
+ <path d="M90 440 L320 300 L320 900" fill="none" stroke="#c6d9e8" stroke-width="7" opacity=".55"/>
+ <path d="M150 420 L150 900 M220 365 L220 900 M280 326 L280 900 M360 360 L360 900 M430 470 L430 900 M500 580 L500 900 M570 690 L570 900" stroke="#d7e4ee" stroke-width="3" opacity=".22"/>
+ <path d="M44 565 L320 455 L640 735 M17 665 L320 565 L640 830 M-10 765 L320 675 L605 900" stroke="#c9dbe9" stroke-width="3" opacity=".18" fill="none"/>
+ <path d="M0 0 H640 V900 H0Z" fill="url(#shade)"/>
+ <path d="M40 115 Q100 82 165 110" stroke="#fff" stroke-width="3" opacity=".45" fill="none"/>
+</svg>
